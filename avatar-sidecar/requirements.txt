@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+wsproto>=1.2  # required for ws='wsproto' backend (avoids websockets.legacy keepalive AssertionError)
+azure-ai-voicelive[aiohttp]>=1.0.0b1
+azure-core>=1.30
+azure-identity>=1.17
+numpy>=1.26
+scipy>=1.11
+httpx>=0.27
