@@ -1,3 +1,9 @@
+> ### 🙏 Built on open source — original sample: **[Microsoft Graph EchoBot](https://github.com/microsoftgraph/microsoft-graph-comms-samples/tree/master/Samples/PublicSamples/EchoBot)**
+>
+> This repository is derived from the Microsoft Graph **EchoBot** public sample by
+> [@bcage29](https://github.com/bcage29) & [@brwilkinson](https://github.com/brwilkinson), MIT-licensed.
+> It is vendored as the `bot/` submodule of the **Teams Avatar Voice Live** project.
+
 > **Note:**  
 > Public Samples are provided by developers from the Microsoft Graph community.  
 > Public Samples are not official Microsoft Communication samples, and not supported by the Microsoft Communication engineering team. It is recommended that you contact the sample owner before using code from Public Samples in production systems.
